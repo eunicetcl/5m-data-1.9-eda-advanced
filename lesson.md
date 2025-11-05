@@ -21,3 +21,4 @@ We will be using the `notebooks/eda_advanced_lesson.ipynb` notebook throughout t
 > Open the notebook in VSCode by double clicking on the file. Then select `pds` conda environment for the kernel.
 >
 > Follow on with the lesson in the notebook.
+
